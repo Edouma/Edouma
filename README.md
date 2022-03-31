@@ -7,4 +7,11 @@ Skills: HTML | CSS | JS | Bootstrap | Angular | C# | ASP.NET MVC Core| MS SQL | 
 
 - 🔭 I’m currently working on Inventory System. 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Edouma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/edwin-ouma-21825248//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@EddOuma)  
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edouma)](https://github.com/Edouma/github-readme-stats)
+
+
+
+
+

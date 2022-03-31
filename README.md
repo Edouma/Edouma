@@ -8,7 +8,7 @@ Skills: HTML | CSS | JS | Bootstrap | Angular | C# | ASP.NET MVC Core| MS SQL | 
 
 - 🔭 I’m currently working on Inventory System. 
 
-### Examples of work done
+## Examples of work done
 - Inventory Management System
 - E-Commerce system using CMS
 - Desktop Application-Stock Management System

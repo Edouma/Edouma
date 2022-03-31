@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Edwin Ouma
 #### Software Developer | Web Developer | Technical Trainer
 
-https://media-exp1.licdn.com/dms/image/C4D16AQHqmwqIZNdshw/profile-displaybackgroundimage-shrink_200_800/0/1646420142983?e=1654128000&v=beta&t=m_QxSksAq4K-HUdHy9o46DOmYxuA_wU4jWwjlAsoqlQ
 
 I'm from Nairobi, Kenya a Software, Web developer and a Technical Trainer mainly Training the programming languages. Am very passionate about programming and development because I believe programming is about giving solutions to the humanity through the use of Technology and applications.
 

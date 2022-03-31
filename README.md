@@ -14,8 +14,6 @@ Skills: HTML | CSS | JS | Bootstrap | Angular | C# | ASP.NET MVC Core| MS SQL | 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Edouma&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Edouma)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Edouma)  
 
 ![Profile views](https://gpvc.arturio.dev/Edouma)  

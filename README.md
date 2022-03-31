@@ -8,9 +8,9 @@ Skills: HTML | CSS | JS | Bootstrap | Angular | C# | ASP.NET MVC Core| MS SQL | 
 - 🔭 I’m currently working on Inventory System. 
 
 ### Examples of work done
-- Desktop Application Stock Management System
-- E-Commerce system using CMS
 - Inventory Management System
+- E-Commerce system using CMS
+- Desktop Application-Stock Management System
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Edouma)  
 

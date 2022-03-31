@@ -1,14 +1,13 @@
-### Hi there 👋, my name is Edwin Ouma
+## Hi 👋, am Edwin.
 #### Software Developer | Web Developer | Technical Trainer
 
+I'm a software and Web Developer who is passionate about programming and Development because I know and believe programming is about giving solution to the humanity, and this is achieved through creating applications and systems to make work of the humans to be as easy as possible and fun doing. Started as a technical trainer, training and introducing students to programming, at the moment am doing both Development and Technical Training.
 
-I'm from Nairobi, Kenya a Software, Web developer and a Technical Trainer mainly Training the programming languages. Am very passionate about programming and development because I believe programming is about giving solutions to the humanity through the use of Technology and applications.
-
-Skills: HTML | CSS | JS | Bootstrap | Angular | C# | ASP.NET MVC Core| MS SQL | Entity Frame work Core| My SQL
+Skills: HTML | CSS | JS | Bootstrap | Angular | C# | ASP.NET Core Web API | ASP.NET MVC Core| MS SQL | Entity Frame work Core| My SQL
 
 - 🔭 I’m currently working on Inventory System. 
 
-## Examples of work done
+### Examples of work done
 - Inventory Management System
 - E-Commerce system using CMS
 - Desktop Application-Stock Management System

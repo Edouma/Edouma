@@ -7,4 +7,4 @@ Skills: HTML | CSS | JS | Bootstrap | Angular | C# | ASP.NET MVC Core| MS SQL | 
 
 - 🔭 I’m currently working on Inventory System. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edouma)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edouma)](https://github.com/Edouma/github-readme-stats)

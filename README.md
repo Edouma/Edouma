@@ -1,3 +1,4 @@
+![Profile views](https://gpvc.arturio.dev/Edouma)  
 ## Hi 👋, am Edwin
 
 ![I am GitHub Readme Generator's creator](https://github.com/Edouma/Edouma/blob/main/banner4.png)
@@ -27,4 +28,4 @@ Skills: HTML | CSS | JS | Bootstrap | C# | ASP.NET Core Web API | ASP.NET MVC Co
 
 
 
-![Profile views](https://gpvc.arturio.dev/Edouma)  
+

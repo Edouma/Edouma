@@ -4,7 +4,7 @@
 
 I'm a software Developer, Technical Trainer and Web Developer who is passionate about programming and development because I know and believe programming is about giving solution to the humanity, and this is achieved through creating applications and systems to make our work as humans to be as easy as possible and fun doing. My Journey started way back as a Technical trainer, training and introducing students to programming, making students understand and know what programming is all about, at the moment am doing both development and Technical Training.
 
-#### Skills: HTML | CSS | JS | Bootstrap | C# | ASP.NET Core Web API | ASP.NET MVC Core | MS-SQL | Entity Frame work Core| My-SQL
+##### Skills: HTML | CSS | JS | Bootstrap | C# | ASP.NET Core Web API | ASP.NET MVC Core | MS-SQL | Entity Frame work Core| My-SQL
 
 - 🔭 I’m currently working on Inventory System. 
 - 🔭 I’m currently Learning Angular. 

@@ -7,7 +7,6 @@ I'm a software Developer, Technical Trainer and Web Developer who is passionate 
 #### Skills: HTML | CSS | JS | Bootstrap | C# | ASP.NET Core Web API | ASP.NET MVC Core | MS-SQL | Entity Frame work Core| My-SQL
 
 - 🔭 I’m currently working on Inventory System. 
-- 🔭 I’m currently Learning Angular. 
 
 #### Examples of work done
 - Inventory Management System

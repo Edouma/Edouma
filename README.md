@@ -5,11 +5,11 @@
 I'm a software Developer, Technical Trainer and Web Developer who is passionate about programming and development because I know and believe programming is about giving solution to the humanity, and this is achieved through creating applications and systems to make our work as humans to be as easy as possible and fun doing. My Journey started way back as a Technical trainer, training and introducing students to programming, making students understand and know what programming is all about, at the moment am doing both development and Technical Training.
 
 #### Skills: HTML | CSS | Javascript | Bootstrap | C# | ASP.NET Core Web API | ASP.NET MVC Core | MS-SQL | Entity Frame work Core| My-SQL | React | Node-JS |
-- 🔭 
+
 #### Examples of work done
-- Inventory Management System
-- E-Commerce system using CMS
-- Desktop Application-Stock Management System
+- 🔭 Inventory Management System
+- 🔭 E-Commerce system using CMS
+- 🔭 Desktop Application-Stock Management System
 
 #### Get in touch
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/Edouma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/edwin-ouma-21825248//)  

@@ -11,6 +11,7 @@ I'm a software Developer, Technical Trainer, and Web Developer who is passionate
 -  E-Commerce system using CMS
 -  Desktop Application-Stock Management System
 -  Case Management System
+-  Raw Material Management System
 
 #### Get in touch
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/Edouma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/edwin-ouma-21825248//)  

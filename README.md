@@ -2,13 +2,13 @@
 
 ![I am GitHub Readme Generator's creator](https://github.com/Edouma/Edouma/blob/main/banner2.png)
 
-I'm a software Developer, Technical Trainer, and Web Developer who is passionate about programming and development because I know and believe programming is about giving solutions to humanity, and this is achieved through creating applications and systems to make our work as humans to be as easy as possible and fun doing. My Journey started way back as a Technical trainer, training and introducing students to programming, making students understand and know what programming is all about, at the moment am doing both Software Development and Technical Training, I love sharing what I have learned and equally learning more to share more.
+I'm a software Developer, Technical Trainer, and Web Developer who is passionate about programming and development because I know and believe programming is about giving solutions to humanity, and this is achieved through creating applications and systems to make our work as humans, to be as easy as possible and fun doing. My Journey started way back as a Technical trainer, training and introducing students to programming, making students understand and know what programming is all about, at the moment am doing both Software Development and Technical Training, I love sharing what I have learned and equally learning more to share more.
 
 #### Skills: HTML | CSS | Javascript | Bootstrap | C# | ASP.NET Core Web API | ASP.NET MVC Core | MS-SQL | Entity Frame work Core| My-SQL | React | Node-JS | Mongo-DB | Express-JS
 
 #### Examples of work done
 -  Inventory Management System
--  E-Commerce system using CMS
+-  E-commerce system using CMS
 -  Desktop Application-Stock Management System
 -  Case Management System
 -  Raw Material Management System

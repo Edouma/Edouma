@@ -6,7 +6,7 @@ I'm a software Developer, Technical Trainer, and Web Developer who is passionate
 
 #### Skills: HTML | CSS | Javascript | Bootstrap | C# | ASP.NET Core Web API | ASP.NET MVC Core | MS-SQL | Entity Frame work Core| My-SQL | React | Node-JS | Mongo-DB | Express-JS
 
-#### Examples of work done
+#### Sample Work Done
 -  Inventory Management System
 -  E-commerce system using CMS
 -  Desktop Application-Stock Management System

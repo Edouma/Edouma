@@ -1,4 +1,4 @@
-# Hi 👋🏾, am Edwin
+## Hi 👋🏾, am Edwin
 
 ![I am GitHub Readme Generator's creator](https://github.com/Edouma/Edouma/blob/main/banner3.png)
 
